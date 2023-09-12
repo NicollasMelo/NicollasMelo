@@ -16,9 +16,9 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 ### Contact Me
-<a href="https://github.com/NicollasMelo"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicollas%20Melo-blue?style=flat-square&logo=linkedin"></a> 
+<a href="https://www.linkedin.com/in/nicollas-melo-a314a2230/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicollas%20Melo-blue?style=flat-square&logo=linkedin"></a> 
 
-![GitHub Activity](https://github-readme-stats-sigma-five.vercel.app/api?username=https://www.linkedin.com/in/nicollas-melo-a314a2230/&show_icons=true)
+![GitHub Activity](https://github-readme-stats-sigma-five.vercel.app/api?username=nicollasmelo&show_icons=true)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NicollasMelo&label=Profile%20views&color=0e75b6&style=flat" alt="NicollasMelo" /> </p>
