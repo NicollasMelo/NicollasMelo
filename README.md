@@ -2,7 +2,7 @@
 <h2>Fullstack Developer 🎨</h2>
 
 ### About Me
-- I am 22 years old and I am from Brazil.
+- I am 23 years old and I am from Brazil.
 - I have been working with technology since 2022.
 
 ### Technologies
