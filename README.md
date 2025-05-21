@@ -3,7 +3,7 @@
 
 ### About Me
 - I am 23 years old and I am from Brazil.
-- I have been working with technology since 2022.
+- I have been working with technology since 2024.
 
 ### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
